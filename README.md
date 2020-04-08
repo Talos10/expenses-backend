@@ -1,6 +1,6 @@
 # Project Description
 This project is the backend portion of the CRUD MVC web application where a user can create a list of expenses that are categorized as
-either income or expense. The user may choose to modify or delete any entry from the list.
+either income or expense. The user may choose to modify or delete any entry from the list. The REST API processes the requests that come from the frontend via the various HTTP endpoints and returns the appropriate responses.
 
 ## Technologies used
 * C# (ASP.NET Framework): The backend consists of a REST Web API written in C# (ASP.NET Framework).
