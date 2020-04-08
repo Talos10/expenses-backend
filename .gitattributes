@@ -61,3 +61,7 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+###############################################################################
+# Ignore the large amount of boilerplate js files in this folder.
+Scripts/* linguist-vendored
