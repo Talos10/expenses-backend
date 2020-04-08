@@ -64,4 +64,5 @@
 
 ###############################################################################
 # Ignore the large amount of boilerplate js files in this folder.
-Scripts/* linguist-vendored
+* linguist-vendored
+*.cs linguist-vendored=false
